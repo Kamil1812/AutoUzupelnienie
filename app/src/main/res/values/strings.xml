@@ -1,3 +1,38 @@
 <resources>
     <string name="app_name">Automatyczne_uzupełnianie</string>
-</resources>
+        <string name="hint">Please type language...</string>
+        <string name="submit">Submit</string>
+        <string name="submitted_lang">Submitted language:</string>
+
+        <string-array name="Languages">
+            <item> Austra </item>
+            <item> Belgia  </item>
+            <item> Bułgaria </item>
+            <item> Chorwacja </item>
+            <item> Cypr </item>
+            <item> Czechy </item>
+            <item> Dania </item>
+            <item> Estonia </item>
+            <item> Finlandia </item>
+            <item> Francja </item>
+            <item> Grecja </item>
+            <item> Hiszpania </item>
+            <item> Holandia </item>
+            <item> Irlandia </item>
+            <item> Litwa </item>
+            <item> Łotwa </item>
+            <item> Luksemburg </item>
+            <item> Malta </item>
+            <item> Niemcy </item>
+            <item> Polska </item>
+            <item> Portugalia </item>
+            <item> Rumunia </item>
+            <item> Szwecja </item>
+            <item> Słowacja </item>
+            <item> Słowenia </item>
+            <item> Węgry </item>
+            <item> Włochy </item>
+
+        </string-array>
+
+    </resources>
